@@ -1,4 +1,4 @@
-# Nick Bellistri — Product Manager
+# Nick Bellistri — Senior Product Manager
 
 Senior PM at HubSpot working on Marketing Studio — campaign creation, AI-generated assets, and AI output quality. Previously at Orum, Addepar, and John Hancock.
 

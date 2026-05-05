@@ -15,8 +15,11 @@ Install any skill by copying its folder into `~/.claude/skills/`, then just ask 
 | Skill | What it does |
 |---|---|
 | [PM Resume Review](https://github.com/Bellistri-Nick/PMResumeReviewer) | Three-panel review (Recruiter, Hiring Manager, CPO) with scores, specific citations, and rewrite offers |
-| [PRD Reviewer](https://github.com/Bellistri-Nick/ProductManagerPRDReviewer) | Scored rubric review through Peer PM, Lead PM, and CPO lenses — supports custom reviewer voices |
+| [LinkedIn Profile Reviewer](https://github.com/Bellistri-Nick/ProductManagerLinkedInReviewer) | Three-panel review (Recruiter, Hiring Manager, Head of Product) that scores each section, quotes weaknesses, and delivers a prioritized rewrite list |
 | [Cover Letter Generator](https://github.com/Bellistri-Nick/ProductManagerCoverLetterGenerator) | Voice-matched cover letter from resume + JD, with hiring lens check and targeted revisions |
+| [Case Study Builder](https://github.com/Bellistri-Nick/ProductManagerCaseStudyBuilder) | Turns raw project experience into a portfolio-ready case study — full write-up, LinkedIn article version, and interview talking-points outline |
+| [Take-Home Assignment Reviewer](https://github.com/Bellistri-Nick/ProductManagerTakeHomeCaseStudyReviewer) | Reviews PM take-home submissions before you send them — five-dimension scoring, two hiring panel voices, fixes ranked by impact and time-to-fix |
+| [PRD Reviewer](https://github.com/Bellistri-Nick/ProductManagerPRDReviewer) | Scored rubric review through Peer PM, Lead PM, and CPO lenses — supports custom reviewer voices |
 | [User Interview Synthesis](https://github.com/Bellistri-Nick/ProductManagerTranscriptAnalysis) | Raw notes → themes, pain points, opportunity areas, frequency counts, JTBD/OST framing |
 | [OKR Writer](https://github.com/Bellistri-Nick/ProductManagerOKRWriter) | Generate OKRs from strategy context, or review and rewrite existing ones — catches task KRs, vanity metrics, and unmeasurable objectives |
 | [Competitive Teardown](https://github.com/Bellistri-Nick/ProductManagerCompetitiveAnalysis) | G2 reviews + website copy → capabilities analysis, customer sentiment, gap analysis, strategic implications |

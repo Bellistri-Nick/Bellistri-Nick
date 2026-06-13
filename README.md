@@ -49,4 +49,3 @@ Restart Claude Code after installing. Each skill auto-triggers from natural lang
 
 ---
 
-Built with [Claude Code](https://claude.ai/code).

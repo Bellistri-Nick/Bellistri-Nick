@@ -26,6 +26,7 @@ Install any skill by copying its folder into `~/.claude/skills/`, then just ask 
 
 | Skill | What it does |
 |---|---|
+| [PRD Writer](https://github.com/Bellistri-Nick/ProductManagerPRDWriter) | Writes a PRD from scratch through an adaptive PM intake interview, then drafts against PM best practices — pairs with PRD Reviewer |
 | [PRD Reviewer](https://github.com/Bellistri-Nick/ProductManagerPRDReviewer) | Scored rubric review through Peer PM, Lead PM, and CPO lenses — supports custom reviewer voices |
 | [User Interview Synthesis](https://github.com/Bellistri-Nick/ProductManagerTranscriptAnalysis) | Raw notes → themes, pain points, opportunity areas, frequency counts, JTBD/OST framing |
 | [OKR Writer](https://github.com/Bellistri-Nick/ProductManagerOKRWriter) | Generate OKRs from strategy context, or review and rewrite existing ones — catches task KRs, vanity metrics, and unmeasurable objectives |

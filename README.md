@@ -21,6 +21,7 @@ Install any skill by copying its folder into `~/.claude/skills/`, then just ask 
 | [Cover Letter Generator](https://github.com/Bellistri-Nick/ProductManagerCoverLetterGenerator) | Voice-matched cover letter from resume + JD, with hiring lens check and targeted revisions |
 | [Case Study Builder](https://github.com/Bellistri-Nick/ProductManagerCaseStudyBuilder) | Turns raw project experience into a portfolio-ready case study — full write-up, LinkedIn article version, and interview talking-points outline |
 | [Take-Home Assignment Reviewer](https://github.com/Bellistri-Nick/ProductManagerTakeHomeCaseStudyReviewer) | Reviews PM take-home submissions before you send them — five-dimension scoring, two hiring panel voices, fixes ranked by impact and time-to-fix |
+| [Job Scout](https://github.com/Bellistri-Nick/job-scout) | Self-hosted job search agent. Scans public ATS boards and remote job boards on a schedule, scores every posting against your resume, and emails a ranked digest |
 
 ### Product Work
 

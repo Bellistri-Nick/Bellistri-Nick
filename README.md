@@ -1,8 +1,8 @@
-# Nick Bellistri — Senior Product Manager
+# Nick Bellistri
 
-Senior PM at HubSpot working on Marketing Studio — campaign creation, AI-generated assets, and AI output quality. Previously at Orum, Addepar, and John Hancock.
+Senior PM at HubSpot on Marketing Studio: campaign creation, AI-generated assets, and AI output quality. Previously Orum, Addepar, and John Hancock. 15+ years across B2B SaaS, AI/ML, fintech, and marketing technology.
 
-15+ years building B2B SaaS products across AI/ML, fintech, and marketing technology.
+I build what I spec. Everything below is public and working, and most of it started as something I needed for my own workflow before I packaged it.
 
 ---
 
@@ -12,16 +12,24 @@ A collection of open-source skills for [Claude Code](https://claude.ai/code) —
 
 Install any skill by copying its folder into `~/.claude/skills/`, then just ask Claude to do the thing.
 
+### AI Quality & Evals
+
+| Skill | What it does |
+|---|---|
+| [Eval Framework Builder](https://github.com/Bellistri-Nick/ProductManagerEvalFrameworkBuilder) | Turns an AI feature description into a complete eval framework: quality dimensions, a scored rubric with anchors, golden set structure, ship/no-ship thresholds, and an optional automated judge prompt |
+| [AI Quality Scorecard](https://github.com/Bellistri-Nick/ProductManagerAIQualityScorecard) | Scores a single AI-generated output against quality criteria, cites the evidence, gives a ship/no-ship verdict, and rewrites the weakest dimension |
+
 ### Job Search & Career
 
 | Skill | What it does |
 |---|---|
+| [Job Scout](https://github.com/Bellistri-Nick/job-scout) | Self-hosted job search agent. Scans public ATS boards and remote job boards on a schedule, scores every posting against your resume, and emails a ranked digest |
+| [AI Job Search](https://github.com/Bellistri-Nick/ai-job-search) | End-to-end job search framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Runs on your machine, fork it and own it |
 | [PM Resume Review](https://github.com/Bellistri-Nick/PMResumeReviewer) | Three-panel review (Recruiter, Hiring Manager, CPO) with scores, specific citations, and rewrite offers |
 | [LinkedIn Profile Reviewer](https://github.com/Bellistri-Nick/ProductManagerLinkedInReviewer) | Three-panel review (Recruiter, Hiring Manager, Head of Product) that scores each section, quotes weaknesses, and delivers a prioritized rewrite list |
 | [Cover Letter Generator](https://github.com/Bellistri-Nick/ProductManagerCoverLetterGenerator) | Voice-matched cover letter from resume + JD, with hiring lens check and targeted revisions |
 | [Case Study Builder](https://github.com/Bellistri-Nick/ProductManagerCaseStudyBuilder) | Turns raw project experience into a portfolio-ready case study — full write-up, LinkedIn article version, and interview talking-points outline |
 | [Take-Home Assignment Reviewer](https://github.com/Bellistri-Nick/ProductManagerTakeHomeCaseStudyReviewer) | Reviews PM take-home submissions before you send them — five-dimension scoring, two hiring panel voices, fixes ranked by impact and time-to-fix |
-| [Job Scout](https://github.com/Bellistri-Nick/job-scout) | Self-hosted job search agent. Scans public ATS boards and remote job boards on a schedule, scores every posting against your resume, and emails a ranked digest |
 
 ### Product Work
 
@@ -50,4 +58,3 @@ Copy-Item -Recurse <repo-name> "$env:USERPROFILE\.claude\skills\<skill-name>"
 Restart Claude Code after installing. Each skill auto-triggers from natural language — no slash commands needed.
 
 ---
-

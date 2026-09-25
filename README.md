@@ -2,7 +2,7 @@
 
 Senior PM at HubSpot on Marketing Studio: campaign creation, AI-generated assets, and AI output quality. Previously Orum, Addepar, and John Hancock. 15+ years across B2B SaaS, AI/ML, fintech, and marketing technology.
 
-I build what I spec. Everything below is public and working, and most of it started as something I needed for my own workflow before I packaged it.
+Everything below is public and working, and most of it started as something I needed for my own workflow before I packaged it.
 
 ---
 

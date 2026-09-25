@@ -4,8 +4,6 @@ Senior PM at HubSpot on Marketing Studio: campaign creation, AI-generated assets
 
 I build what I spec. Everything below is public and working, and most of it started as something I needed for my own workflow before I packaged it.
 
-**How I test it.** The code gets unit tests: [Job Scout](https://github.com/Bellistri-Nick/job-scout) has 45 covering scoring, salary parsing, and dedupe. The skills get evals: nine of them ship an `evals/evals.json` with test prompts and per-case expectations, so a change to the skill gets checked against known cases instead of judged by feel. The suites are small, three cases per skill, and they grow when a real run fails.
-
 ---
 
 ## Claude Code Skills for Product Managers
